@@ -2,6 +2,8 @@
 
 Python ile Telegram botu yazımı kursu notları, çeşitli kaynaklardan yararlanılarak özgün kodlarla yazılacaktır.
 
+* [Adem HİÇDURMAZ](https://www.udemy.com/course/sifirdan-telegram-bot-gelistirme-kursu/)
+
 ## License
 
 Python ile Telegram botu yazımı kursu notları, çeşitli kaynaklardan yararlanılarak özgün kodlarla yazılacaktır.
